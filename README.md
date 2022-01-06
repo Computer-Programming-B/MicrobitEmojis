@@ -1,4 +1,4 @@
-micro:bit Emojis
+micro:bit Button Controlled Emojis
 --------------------
 In this assignment you will program your micro:bit using the two built-in buttons to show your feelings. Your program will have two different animated emojis. For example, one button might trigger a happy emoji animation ane the other a sad emoji animation. Your program will be similar to the previous assignment, but you will need to use at least two if statements to check if either of the buttons has been pressed.
 
