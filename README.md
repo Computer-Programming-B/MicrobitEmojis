@@ -29,3 +29,7 @@ Suggested steps to completing this assignment
 Samples of Student Work
 ----------
 [Evangeline](EvangelineEmojis.png)   
+[Allison](AllisonEmojis.gif)   
+[Isaac](IsaacEmojis.gif)   
+[Kaitlyn](KaitlynEmojis.GIF)   
+[Linen](LinenEmojis.GIF)   
