@@ -28,6 +28,7 @@ Suggested steps to completing this assignment
 
 Samples of Student Work
 ----------
+[Noel](NoelButtons.gif)   
 [Evangeline](EvangelineEmojis.png)   
 [Allison](AllisonEmojis.gif)   
 [Isaac](IsaacEmojis.gif)   
